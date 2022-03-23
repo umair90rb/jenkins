@@ -1,4 +1,4 @@
 echo $FIRSTNAME
 uname -a
 hostname
-echo "Completed"
+echo "Completed 1"
